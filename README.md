@@ -6,9 +6,9 @@ Projeto front-end de uma interface de login e cadastro interativa. O foco princi
 
 ## **O que foi implementado:**
 
-**-Transição em 3D:** Alternância entre a tela de login e a de registro usando rotação no eixo Y (transform: rotateY com preserve-3d).
-<br> **-Animações em CSS:** Borda circular animada com gradiente cônico e sombreamento contínuo.
-<br> **-Responsividade:** Ajuste de proporções e tipografia para manter a usabilidade tanto em dispositivos móveis quanto em telas maiores.
+**- Transição em 3D:** Alternância entre a tela de login e a de registro usando rotação no eixo Y (transform: rotateY com preserve-3d).
+<br> **- Animações em CSS:** Borda circular animada com gradiente cônico e sombreamento contínuo.
+<br> **- Responsividade:** Ajuste de proporções e tipografia para manter a usabilidade tanto em dispositivos móveis quanto em telas maiores.
 <br> **-JavaScript Vanilla:** Controle simples de classes para disparar a troca de formulários sem recarregar a página.
 
 ## **Tecnologias:**
