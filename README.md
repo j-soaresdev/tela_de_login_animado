@@ -11,7 +11,7 @@ Projeto front-end de uma interface de login e cadastro interativa. O foco princi
 <br> **-Responsividade:** Ajuste de proporções e tipografia para manter a usabilidade tanto em dispositivos móveis quanto em telas maiores.
 <br> **-JavaScript Vanilla:** Controle simples de classes para disparar a troca de formulários sem recarregar a página.
 
-##**Tecnologias:**
+## **Tecnologias:**
 
 - HTML5
 - CSS3
