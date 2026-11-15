@@ -4,7 +4,7 @@
 
 Projeto front-end de uma interface de login e cadastro interativa. O foco principal foi trabalhar com animações e transformações tridimensionais em CSS puro, acompanhado de uma estética dark com iluminação neon.
 
-#**O que foi implementado:**
+## **O que foi implementado:**
 
 Transição em 3D: Alternância entre a tela de login e a de registro usando rotação no eixo Y (transform: rotateY com preserve-3d).
 Animações em CSS: Borda circular animada com gradiente cônico e sombreamento contínuo.
