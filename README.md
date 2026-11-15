@@ -11,7 +11,8 @@ Animações em CSS: Borda circular animada com gradiente cônico e sombreamento 
 Responsividade: Ajuste de proporções e tipografia para manter a usabilidade tanto em dispositivos móveis quanto em telas maiores.
 JavaScript Vanilla: Controle simples de classes para disparar a troca de formulários sem recarregar a página.
 
-#**Tecnologias:**
+##**Tecnologias:**
+
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
